@@ -15,9 +15,9 @@ assets/
        weather-bg.jpg
 css/
     style.css
-index.html
 js/
     index.js
+index.html
 # Usage
 1. Enter the name of a city in the search input field.
 2. Click the "Search" button or press "Enter" to fetch and display the weather information for the specified city.
