@@ -11,13 +11,8 @@ This repository contains a simple weather application that allows users to searc
 - Bootstrap
 - OpenWeatherMap API
 # File Structure
-assets/
-       weather-bg.jpg
-css/
-    style.css
-js/
-    index.js
-index.html
+![image](https://github.com/user-attachments/assets/a1e717e3-7040-4b66-bef5-6014365ddd1b)
+
 # Usage
 1. Enter the name of a city in the search input field.
 2. Click the "Search" button or press "Enter" to fetch and display the weather information for the specified city.
