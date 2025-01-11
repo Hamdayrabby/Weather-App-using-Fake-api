@@ -51,8 +51,8 @@ function displayWeather(temperature)
         <h6>${localDate.fullDate}</h6>
         <img src="http://openweathermap.org/img/wn/${temperature.weather[0].icon}@2x.png" alt="">
         <h5 class="fs-1">${temperature.main.temp} &deg;C</h5>
-        <h5 class="text-dark fs-2">${temperature.weather[0].main}</h5>
-        <h5 class="text-dark">
+        <h5 class="fs-2">${temperature.weather[0].main}</h5>
+        <h5 class="">
             <span class="me-3">
                 Sunrise: ${sunriseTime.time12h}
             </span>
